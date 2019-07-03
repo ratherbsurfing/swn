@@ -22,7 +22,6 @@
  * THE SOFTWARE.
  */
 
-
 var atmospheres = [
     "Corrosive",
     "Inert gas",
